@@ -20,4 +20,6 @@ Nine homeworks, each with a written component and (for most) a programming compo
 | 8 | Neural Networks |
 | 9 | Unsupervised Learning |
 
-Files will be organised by homework as they are added.
+## What's here
+
+The programming components, organised by homework (`hw1/`, `hw2/`, `hw4/`, `hw5/`, `hw7/`, `hw8/`, `hw9/`), copied from my GitHub Classroom repos. Homeworks 3 and 6 were written-only. The written components were submitted via Gradescope and are not included here.
